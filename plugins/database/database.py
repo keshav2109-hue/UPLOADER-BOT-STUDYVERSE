@@ -1,5 +1,3 @@
-# (c) @AbirHasan2005
-
 import datetime
 import motor.motor_asyncio
 from plugins.config import Config
@@ -72,4 +70,4 @@ class Database:
         return user or None
 
 
-db = Database(Config.DATABASE_URL, "UploadLinkToFileBot")
+db = Database(Config.DATABASE_URL, "UploadStudyVerseBot")
