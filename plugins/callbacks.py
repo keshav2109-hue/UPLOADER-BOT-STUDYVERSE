@@ -42,7 +42,7 @@ async def button(bot, update):
                 user = await bot.get_chat_member(channel_chat_id, update.message.chat.id)
                 if user.status == "kicked":
                     await update.message.edit(
-                        text="Sorry Sir, You are Banned. Contact My [Support Group](https://t.me/NT_BOTS_SUPPORT)",
+                        text="Sorry User, You are Banned. Contact [Support](https://t.me/Madhav_IzPro)",
                         disable_web_page_preview=True
                     )
                     return
@@ -64,7 +64,7 @@ async def button(bot, update):
                 return
             except Exception:
                 await update.message.edit(
-                    text="Something Went Wrong. Contact My [Support Group](https://t.me/NT_BOTS_SUPPORT)",
+                    text="Something Went Wrong. Contact My [Support Channel](https://t.me/StudyVerse_Network_SV)",
                     disable_web_page_preview=True
                 )
                 return
