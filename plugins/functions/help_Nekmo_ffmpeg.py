@@ -1,4 +1,3 @@
-
 import logging
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -13,7 +12,7 @@ from hachoir.parser import createParser
 
 
 async def place_water_mark(input_file, output_file, water_mark_file):
-    watermarked_file = output_file + "@UploaderXNTBot"
+    watermarked_file = output_file + "@UploaderStudyVerseBot"
     metadata = extractMetadata(createParser(input_file))
     width = metadata.get("width")
     # https://stackoverflow.com/a/34547184/4723940
@@ -121,7 +120,6 @@ async def cult_small_video(video_file, output_directory, start_time, end_time):
     else:
         return None
 
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL
 async def generate_screen_shots(
     video_file,
     output_directory,
