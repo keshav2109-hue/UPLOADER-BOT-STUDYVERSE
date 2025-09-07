@@ -1,5 +1,3 @@
-# (c) @AbirHasan2005
-
 from pyrogram import Client
 from plugins.database.database import db
 from pyrogram.types import Message
