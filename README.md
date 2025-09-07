@@ -1,11 +1,11 @@
-## URL Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ V4 🚀
+## URL Uᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ 🚀
 
 
-[![logo](https://graph.org/file/a7af2d3ece56bbb1297aa.jpg)](https://telegram.dog/UploadLinkToFileBot)
+[![logo](https://cdna.artstation.com/p/assets/images/images/053/465/272/large/rehan-moazzam-studyverse.jpg?1662288112)](https://telegram.dog/UploaderStudyVerseBot)
 
-[![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/UPLOADER-BOT-V4?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/fork)
-![Repo Size](https://img.shields.io/github/repo-size/LISA-KOREA/UPLOADER-BOT-V4?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/LISA-KOREA/UPLOADER-BOT-V4?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V4/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/keshav2109-hue/UPLOADER-BOT-STUDYVERSE?&style=flat-square&logo=github)](https://github.com/keshav2109-hue/UPLOADER-BOT-STUDYVERSE/fork)
+![Repo Size](https://img.shields.io/github/repo-size/keshav2109-hue/UPLOADER-BOT-STUDYVERSE?&style=flat-square&logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/keshav2109-hue/UPLOADER-BOT-STUDYVERSE?&style=flat-square&logo=github)](https://github.com/keshav2109-hue/UPLOADER-BOT-STUDYVERSE/stargazers)
 
 #
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&multiline=true&width=460&height=60&lines=%F0%9F%92%AB+Thanks+for+supporting+this+project!+Every+%E2%AD%90+and+fork+helps+keep+it+alive.+%F0%9F%99%8C)](https://git.io/typing-svg)
@@ -14,45 +14,10 @@
 #
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F70000&multiline=true&width=460&height=60&lines=GIVE+ME+A+STAR+%E2%AD%90%EF%B8%8F+)](https://git.io/typing-svg)
 
-#
-
-### BUY ME A COFFEE 🥹
-<a href="https://www.buymeacoffee.com/lisakorean" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
-# Donation
-<b><details><summary>Click To Open Donation detelis</summary>
-
-## Support This Project
-
-Maintaining and improving this project takes time and resources. If you find this repository helpful or use it in your own projects, consider supporting its development. Your contributions—no matter how small—help keep the project alive and evolving.
-
-### Payment Methods
-
-- **UPI / GPay / Paytm / PhonePe**
-- **PayPal** (International)
-- **Credit/Debit Cards** (via PayPal)
-- **Cryptocurrency**: Bitcoin, Tron (TRC20)
-- **Payeer**
-
-### Payment Details
-
-- **UPI ID**: `jobinjustin2002-1@okaxis`  
-- **Bitcoin**: `1DPtf1xkq7aBriCBwDHNydSfzQT2PccFmj`  
-- **Tron (TRC20)**: `THPYzzchV2fssaw5RE4TxL8NxJpfctw46J`  
-- **Payeer**: `P1113797003`  
-- **PayPal**: [Click to Pay](https://www.paypal.me/lisajobin)
-
-### Why Donate?
-
-- To support ongoing development and new features
-- To help cover infrastructure and hosting costs
-- To keep the project open-source and free for everyone
-
 ### Contact
 
 If you have any questions or would like to sponsor this project in another way, feel free to reach out:  
-**[@JOBIN_JUSTIN](https://t.me/JOBIN_JUSTIN)** on Telegram.
+**[@Madhav_IzPro](https://t.me/Madhav_IzPro)** on Telegram.
 </b>
 </details>
 
@@ -62,10 +27,10 @@ If you have any questions or would like to sponsor this project in another way, 
 
 #
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V4/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://github.com/keshav2109-hue/UPLOADER-BOT-STUDYVERSE/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 #
-  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLISA-KOREA%2FUPLOADER-BOT-V4"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+  ㅤ<a href="https://dashboard.heroku.com/new?template=https://github.com/keshav2109-hue/UPLOADER-BOT-STUDYVERSE"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 </b>
 </details>
@@ -142,7 +107,7 @@ status – Check the bot's current status 🚀
 * `DATABASE_URL` Get It From MongoDB Web
 Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=shared)
 
-* `OWNER_ID` Your telegram I'd use this bot [@UploadLinkToFileBot](https://telegram.dog/UploadLinkToFileBot) and use `/info`
+* `OWNER_ID` Your telegram I'd use this bot [@UploaderStudyVerseBot](https://telegram.dog/UploaderStudyVerseBot) and use `/info`
 
 * `BOT_USERNAME` Add your bot username
 
@@ -168,15 +133,10 @@ Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=
 
 ### My Community Details
 
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader 𝕏 Bot](https://t.me/UploaderXNTBot)
+- Telegram Channel : [StudyVerse Network ❤️‍🩹](https://t.me/StudyVerse_Network_SV)
+- URL Uploader Bot : [Uploader 𝕏 Bot](https://t.me/UploaderStudyVerseBot)
 
 
 ### Credits and Thanks to ❤️
 
-* [Lisa (Me)](https://github.com/LISA-KOREA)
-* [Clinton Abraham](https://github.com/Clinton-Abraham)
-* [Tech VJ](https://github.com/VJBots)
-
+* [Madhav (Me)](https://github.com/keshav2109-hue)
